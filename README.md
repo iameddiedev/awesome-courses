@@ -1,263 +1,283 @@
-# Awesome Courses
-
-Lista de recursos para ser un desarrollador
-
-## [Freecodecamp](https://www.freecodecamp.org/learn)
-Plataforma educativa que brinda las siguentes certificaciones completamente gratuitas, cuenta con bolsa de trabajo y un canal de [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-
-- JavaScriopt Algorithms and Data Structures
-- Front End Libraries
-- Data Visualization
-- APIs and Microservicios
-- Quality Assurance
-- Scientific Computing with Python
-- Data Analysis with Python
-- Information Security
-- Machine Learning with Python Certification
-
-## [Redis University](https://university.redislabs.com/) 
-Aprende Redis con cursos gratuitos
-
-- [Introduction to Redis Data Structures](https://university.redislabs.com/courses/ru101/)
-- [Redis for Java Developers](https://university.redislabs.com/courses/ru102j/)
-- [Redis for JavaScript Developers](https://university.redislabs.com/courses/ru102js/)
-- [Redis for Python Developers](https://university.redislabs.com/courses/ru102py/)
-- [RediSearch](https://university.redislabs.com/courses/ru201/)
-- [Redis Streams](https://university.redislabs.com/courses/ru202/)
-- [Redis Security](https://university.redislabs.com/courses/ru330/)
-
-## [MongoDB University](https://university.mongodb.com/) 
-Aprende MongDB con cursos y tutoriales gratuitos
-    
-- [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
-- [M100: MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)
-- [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about)
-- [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about)
-- [A300: Atlas Security](https://university.mongodb.com/courses/A300/about)
-- [M201: MongoDB Performance](https://university.mongodb.com/courses/M201/about)
-- [M220J: MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about)
-- [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/courses/M220JS/about)
-- [M220N: MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about)
-- [M220P: MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about)
-- [M310: MongoDB Security](https://university.mongodb.com/courses/M310/about)
-- [M312: Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
-- [M320: Data Modeling](https://university.mongodb.com/courses/M320/about)
-
-## [Pildoras Informaticas](https://www.pildorasinformaticas.es/)
-Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.youtube.com/user/pildorasinformaticas)
-
-- Ofimática
-    - [Excel 2019. Basico - Medio - Avanzado](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado/)
-    - [PowerPoint 2013](https://www.pildorasinformaticas.es/course/powerpoint-2013/)
-    - [Access Básico 2010](https://www.pildorasinformaticas.es/course/curso-access-2010-basico/)
-    - [Excel Básico 2010](https://www.pildorasinformaticas.es/course/excel-basico/)
-    - [Word Avanzado](https://www.pildorasinformaticas.es/course/word-avanzado-2010/)
-    - [Access Avanzado 2010](https://www.pildorasinformaticas.es/course/access-2010-avanzado/)
-    - [VBA Access](https://www.pildorasinformaticas.es/course/vba-access/)
-    - [VBA Excel](https://www.pildorasinformaticas.es/course/vba-excel/)
-- Programación web
-    - [PHP MySql. Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql/)
-    - [PHP MySql. Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2/)
-    - [JavaScript desde 0](https://www.pildorasinformaticas.es/course/javascript-desde-0/)
-- Aplicaciones móviles
-    - [Android. Módulo 1](https://www.pildorasinformaticas.es/course/android-con-android-studio/)
-    - [Android. Módulo 2](https://www.pildorasinformaticas.es/course/android-modulo-2/)
-    - [Android. Módulo 3](https://www.pildorasinformaticas.es/course/android-modulo-3/)
-- Python
-    - [Curso Python. Módulo 1](https://www.pildorasinformaticas.es/course/curso-python/)
-    - [Curso Python. Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2/)
-- Bases de Datos
-    - [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql/)
-- Diseño web
-    - [HTML 5](https://www.pildorasinformaticas.es/course/html-5/)
-    - [CSS Avanzado desde 0](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0/)
-- Frameworks
-    - [Curso Django](https://www.pildorasinformaticas.es/course/django/)
-    - [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring/)
-    - [Laravel](https://www.pildorasinformaticas.es/course/laravel/)
-- [Java SE](https://www.pildorasinformaticas.es/course-cat/java_se/)
-- [Java EE](https://www.pildorasinformaticas.es/course-cat/java-ee/)
-- [C#](https://www.pildorasinformaticas.es/course-cat/c/)
-
-## [Jonmircha](https://jonmircha.com)
-Tu amigo y docente digital
-- [Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)
-- [Curso Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
-- [Progressive Web Apps](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6)
-- [Curso Node.js](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND)
-- [Curso POO con PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1)
-- [Software para la Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY7b6mTNigrfZxXNkk0aJd2)
-- [Tips CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYVLwbW09GGgG2EOFJeNWmQ)
-- [KISS PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZWYh18UN6Q9rfkoqy5A9Xn)
-- [Curso Desarrollo Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbxAO7uRoeNHH6ZCyjr7xq2)
-- [Responsive Design](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbFYbzpJFN1GLMBZnm9hX5G)
-- [Curso WordPress](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZDOcKsQz79wnYlTvmAdLkj)
-- [Tutoriales HTML5](https://www.youtube.com/playlist?list=PL211E9DF848CA18FF)
-- [Tutoriales PHP](https://www.youtube.com/playlist?list=PL469D93BF3AE1F84F)
-- [Curso jQuery](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYvLDfVUXOhnZ6QSouIfQQ7)
-- [Curso ActionScript 3](https://www.youtube.com/playlist?list=PLB9840C1696C1BC94)
-
-## [Yoney Gallardo](https://yoneygallardo.com/) 
-Cursos y tutoriales de infomática en español
-- [Programación](https://yoneygallardo.com/category/cursos-de-programacion/)
-- [Ofimática](https://yoneygallardo.com/category/cursos-de-ofimatica/)
-- [Modelado y Animación](https://yoneygallardo.com/category/cursos-de-modelado-y-animacion/)
-- [Diseño Gráfico](https://yoneygallardo.com/category/diseno-grafico-y-marketing/)
-- [Desarrollo Web](https://yoneygallardo.com/category/curso-de-desarrollo-y-diseno-web/)
-- [Audio y Video](https://yoneygallardo.com/category/cursos-de-audio-y-video/)
-
-## [fullstackopen](https://fullstackopen.com/en)
-Aprende React, Redux, Node, Mongo, Graphql y TypeScript
-- [Fundamentas of Web apps](https://fullstackopen.com/en/part0)
-- [Instroduction to React](https://fullstackopen.com/en/part1)
-- [Communicating with server](https://fullstackopen.com/en/part2)
-- [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
-- [Testing Express servers, user administration](https://fullstackopen.com/en/part4)
-- [Testing React apps](https://fullstackopen.com/en/part5)
-- [State management with Redux](https://fullstackopen.com/en/part6s)
-- [React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
-- [GraphQL](https://fullstackopen.com/en/part8)
-- [Typescript](https://fullstackopen.com/en/part9)
-
-## [The Odin Project](https://www.theodinproject.com/)
-Tu carrera como desarrollador web comienza aquí
-- [Full Stack Ruby on Rails](https://www.theodinproject.com/tracks/full-stack-ruby-on-rails)
-    - [Web Development 101 ](https://www.theodinproject.com/courses/web-development-101)
-    - [Ruby Programming ](https://www.theodinproject.com/courses/ruby-programming)
-    - [Databases](https://www.theodinproject.com/courses/databases)
-    - [Ruby on Rails ](https://www.theodinproject.com/courses/ruby-on-rails)
-    - [HTML and CSS](https://www.theodinproject.com/courses/html-and-css)
-    - [Javascript](https://www.theodinproject.com/courses/javascript)
-    - [Getting Hired](https://www.theodinproject.com/courses/getting-hired)
-- [Full Stack JavaScript](https://www.theodinproject.com/tracks/full-stack-javascript)
-    - [Web Development 101](https://www.theodinproject.com/courses/web-development-101)
-    - [Javascript ](https://www.theodinproject.com/courses/javascript)
-    - [HTML and CSS ](https://www.theodinproject.com/courses/html-and-css)
-    - [NodeJS ](https://www.theodinproject.com/courses/nodejs)
-    - [Getting Hired](https://www.theodinproject.com/courses/getting-hired)
-- [Front End Only](https://www.theodinproject.com/tracks/front-end-only)
-    - [Web Development 101](https://www.theodinproject.com/courses/web-development-101)
-    - [Javascript](https://www.theodinproject.com/courses/javascript)
-    - [HTML and CSS ](https://www.theodinproject.com/courses/html-and-css)
-    - [Getting Hired](https://www.theodinproject.com/courses/getting-hired)
-
-## [Itoo](https://itoo.dev?affcode=600175_4eur2cvy)
-Plataforma de educación digital con soporte personalizado de los mejores instructores
-- [Minicurso Firebase para Android. Base de datos(tiempo real)](https://itoo.dev/p/curso-firebase-para-android-realtime-database?affcode=600175_4eur2cvy)
-- [Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica](https://itoo.dev/p/python3?affcode=600175_4eur2cvy)
-- [React JS: La biblioteca de JS creada por Facebook](https://itoo.dev/p/react-js-la-biblioteca-de-js-creada-por-facebook?affcode=600175_4eur2cvy)
-- [Minicurso Diseño para android con Material Design y Theming](https://itoo.dev/p/minicurso-material-design-for-android?affcode=600175_4eur2cvy)
-- [Aprende Lenguaje GO desde 0](https://itoo.dev/p/lenguaje-go-desde-0?affcode=600175_4eur2cvy)
-- [Lenguaje COBOL desde 0](https://itoo.dev/p/lenguaje-cobol-desde-0?affcode=600175_4eur2cvy)
-- [Como instalar cualquier CMS en un Hosting](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
-- [Programación Básica](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
-
-## [Scrimba](https://scrimba.com/)
-Plataforma interactiva para aprender a programar en tecnologias como HTML, CSS, JavaScript, React, Vue y mucho mas.
-- [Practical math for frontend developers](https://scrimba.com/course/gpracticalmath)
-- [Build a movie search app in React](https://scrimba.com/course/greactmovie)
-- [Learn Svelte](https://scrimba.com/course/glearnsvelte)
-- [Learn CSS Animations](https://scrimba.com/course/gcssanimations)
-- [Build an app with React and GraphQL](https://scrimba.com/course/greactgraphql)
-- [Build Tic Tac Toe with React Hooks](https://scrimba.com/course/greactgame)
-- [Learn Vuetify for free](https://scrimba.com/course/gvuetify/enrolled)
-- [The Working Developer's Guide To Algorithms](https://scrimba.com/course/galgorithmsguide/enrolled)
-- [Learn Alpine JS](https://scrimba.com/course/galpinejs/enrolled)
-- [Learn UI Design Fundamentals](https://scrimba.com/course/gdesign/enrolled)
-- [Learn Tailwind CSS for free](https://scrimba.com/course/gtailwind/enrolled)
-- [Build and deploy a portfolio on DigitalOcean](https://scrimba.com/course/gportfolio)
-- [The Coding Bootcamp Primer](https://scrimba.com/course/gbootcampprimer/enrolled)
-- [Learn React Hooks In One Hour](https://scrimba.com/course/greacthooks)
-- [HTML & CSS Crash Course](https://scrimba.com/course/ghtmlcss)
-- [Learn Vuex](https://scrimba.com/course/gvuex)
-- [Learn React for free](https://scrimba.com/course/glearnreact)
-- [Build an expense organizer with ES6 and Dropbox](https://scrimba.com/course/gdropbox)
-- [Learn modern JavaScript](https://scrimba.com/course/ges6)
-- [Learn CSS Variables for free](https://scrimba.com/course/gcssvariables)
-- [Build your first Angular app](https://scrimba.com/course/gyourfirstangularapp)
-- [Learn Python for free](https://scrimba.com/course/gpython)
-- [Learn Regular Expressions](https://scrimba.com/course/gregularexpressions)
-- [Neural networks in JavaScript](https://scrimba.com/course/gneuralnetworks)
-- [Learn Vue.js for free](https://scrimba.com/course/glearnvue)
-- [Introduction to TypeScript](https://scrimba.com/course/gintrototypescript)
-- [Learn Bulma CSS for free](https://scrimba.com/course/gbulma)
-- [Introduction to CSS](https://scrimba.com/course/gintrotocss)
-- [Introduction to ES6+](https://scrimba.com/course/gintrotoes6)
-- [Introduction to JavaScript](https://scrimba.com/course/gintrotojavascript)
-- [How to build a beautiful blog](https://scrimba.com/course/gbuildablog)
-- [Learn D3 for free](https://scrimba.com/course/gd3js)
-- [Introduction to HTML](https://scrimba.com/course/ghtml)
-- [Learn Bootstrap 4 for free](https://scrimba.com/course/gbootstrap4)
-- [Learn Flexbox for free](https://scrimba.com/course/gflexbox)
-- [Learn CSS Grid for free](https://scrimba.com/course/gR8PTE)
-
-## [Makigas](https://www.makigas.es/)
-Tutoriales de programación gratuitos y en castellano
-- [Desarrollo de juegos](https://www.makigas.es/topics/desarrollo-de-juegos)
-    - [Tutorial de libGDX](https://www.makigas.es/series/tutorial-de-libgdx)
-    - [Slick2D](https://www.makigas.es/series/slick2d)
-    - [mini2dx](https://www.makigas.es/series/mini2dx)
-    - [Haciendo un juego de naves con libGDX](https://www.makigas.es/series/mini2dx)
-- [Java](https://www.makigas.es/topics/java)
-    - [JDBC](https://www.makigas.es/series/jdbc)
-    - [JUnit](https://www.makigas.es/series/junit)
-    - [Automatizando con Gradle](https://www.makigas.es/series/automatizando-con-gradle)
-    - [JPA + Hibernate](https://www.makigas.es/series/jpa-hibernate)
-- [Mejora tus skills](https://www.makigas.es/topics/mejora-tus-skills)
-    - [Estructuras de datos](https://www.makigas.es/series/estructuras-de-datos)
-    - [Tutorial de Git](https://www.makigas.es/series/tutorial-de-git)
-    - [Algoritmos de ordenación](https://www.makigas.es/series/algoritmos-de-ordenacion)
-    - [Vagrant](https://www.makigas.es/series/vagrant)
-    - [Ansible](https://www.makigas.es/series/ansible )
-- [Emisiones en directo](https://www.makigas.es/topics/emisiones-en-directo)
-    - [Rectball](https://www.makigas.es/series/rectball)
-    - [Construyendo un emulador CHIP-8](https://cdn.makigas.es/playlists/thumbnails/000/000/010/default/chip8.png?1483739088)
-- [Lenguajes de programación](https://www.makigas.es/topics/lenguajes-de-programacion)
-    - [Racket](https://www.makigas.es/series/racket)
-    - [Make](https://www.makigas.es/series/make)
-    - [Scala](https://www.makigas.es/series/scala)
-    - [Tutorial de C](https://www.makigas.es/series/tutorial-de-c)
-- [Desarrollo web](https://www.makigas.es/topics/desarrollo-web)
-    - [HTML Básico](https://www.makigas.es/series/html-basico)
-    - [Web Components](https://www.makigas.es/series/web-components)
-    - [TypeScript](https://www.makigas.es/series/typescript)
-
-## [Capacitate para el empleo](https://capacitateparaelempleo.org/)
-Plataforma digital desarrollada por la fundacion carlos slim con miles de cursos y diplomados gratuitos
-- [Diplomado Técnico en Big Data](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbd)
-- [Diplomado Técnico en Sistemas Informáticos](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtsi)
-- [Diplomado Técnico en Integridad web](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtiw)
-- [Diplomado Gestión de Ambientes Virtuales de Aprendizaje](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
-- [Diplomado en Gestión de Ambientes Virtuales de Aprendizaje](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
-- [Diplomado de Desarrollo de estrategias digitales de aprendizaje ](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dteda)
-- [Diplomado en Desarrollo de sitios web y aplicaciones móviles](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dswam)
-- [Diplomado en Inteligencia de negocios o Business intelligence ](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbi)
-- [Diplomado Técnico en Cómputo en la nube](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtcn)
-
-## [The Linux Fundation Training](https://training.linuxfoundation.org/)
-La Fundación Linux ofrece una amplia gama de cursos, seminarios web, tutoriales y publicaciones gratuitos para ayudarlo a explorar el panorama de la tecnología de código abierto.
-- [Introduction to Jenkins](https://training.linuxfoundation.org/resources/free-courses/introduction-to-jenkins/)
-- [Introduction to FinOps](https://training.linuxfoundation.org/resources/free-courses/introduction-to-finops/)
-- [Business Considerations for Edge Computing](https://training.linuxfoundation.org/resources/free-courses/business-considerations-for-edge-computing/)
-- [Becoming a Hyperledger Aries Developer](https://training.linuxfoundation.org/resources/free-courses/becoming-a-hyperledger-aries-developer/)
-- [Ethics in AI and Big Data](https://training.linuxfoundation.org/resources/free-courses/ethics-in-ai-and-big-data/)
-- [Introduction to DevOps and Site Reliability Engineering](https://training.linuxfoundation.org/resources/free-courses/introduction-to-devops-and-site-reliability-engineering/)
-- [Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa](https://training.linuxfoundation.org/resources/free-courses/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/)
-- [Exploring GraphQL: A Query Language for APIs](https://training.linuxfoundation.org/resources/free-courses/exploring-graphql-a-query-language-for-apis/)
-- [A Beginner’s Guide to Linux Kernel Development](https://training.linuxfoundation.org/resources/free-courses/a-beginners-guide-to-linux-kernel-development/)
-- [Open Source and the 5G Transition](https://training.linuxfoundation.org/resources/free-courses/open-source-and-the-5g-transition-lfs111/)
-- [Business Considerations for 5G, IoT, and AI](https://training.linuxfoundation.org/resources/free-courses/business-considerations-for-5g-iot-and-ai/)
-- [Hyperledger Sawtooth for Application Developers](https://training.linuxfoundation.org/resources/free-courses/hyperledger-sawtooth-for-application-developers/)
-- [Fundamentals of Professional Open Source Management](https://training.linuxfoundation.org/resources/free-courses/fundamentals-of-professional-open-source-management/)
-- [A Beginner’s Guide to Open Source Software Development](https://training.linuxfoundation.org/resources/free-courses/beginner-guide-to-oss-development/)
-- [Inclusive Speaker Orientation](https://training.linuxfoundation.org/resources/free-courses/inclusive-speaker-orientation/)
-- [Open Source Licensing Basics for Software Developers](https://training.linuxfoundation.org/resources/free-courses/open-source-licensing-basics-for-software-developers/)
-- [Blockchain: Understanding its Uses and Implications](https://training.linuxfoundation.org/resources/free-courses/blockchain-understanding-its-uses-and-implications/)
-- [Introduction to Open Source Networking Technologies](https://training.linuxfoundation.org/resources/free-courses/introduction-to-open-source-networking-technologies/)
-- [Introduction to Cloud Infrastructure Technologies](https://training.linuxfoundation.org/resources/free-courses/introduction-to-cloud-infrastructure-technologies/)
-- [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://training.linuxfoundation.org/resources/free-courses/introduction-to-cloud-foundry-and-cloud-native-software-architecture/)
-- [Introduction to Hyperledger Blockchain Technologies](https://training.linuxfoundation.org/resources/free-courses/blockchain-for-business-an-introduction-to-hyperledger-technologies/)
-- [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
-- [Introduction to ONAP: Complete Network Automation](https://training.linuxfoundation.org/resources/free-courses/introduction-to-onap-complete-network-automation/)
-- [Introduction to Kubernetes](https://training.linuxfoundation.org/resources/free-courses/introduction-to-kubernetes/)
-- [NFV Acceleration: An Introduction to OPNFV](https://training.linuxfoundation.org/resources/free-courses/nfv-acceleration-an-introduction-to-opnfv/)
+🎓 Awesome Courses
+📋 Lista curada de recursos, cursos y tutoriales gratuitos para formarte como desarrollador/a.
+📑 Tabla de Contenidos
+Plataformas
+freeCodeCamp
+Redis University
+MongoDB University
+Píldoras Informáticas
+Jon Mircha
+Yoney Gallardo
+Full Stack Open
+The Odin Project
+ITOO
+Scrimba
+Makigas
+Capacítate para el Empleo
+The Linux Foundation Training
+Contribuir
+Licencia
+🛠️ Plataformas
+🆓 freeCodeCamp 🔗
+Plataforma educativa gratuita con certificaciones, bolsa de trabajo y canal de YouTube.
+➡️ freecodecamp.org
+✅ JavaScript Algorithms and Data Structures
+✅ Front End Libraries
+✅ Data Visualization
+✅ APIs and Microservices
+✅ Quality Assurance
+✅ Scientific Computing with Python
+✅ Data Analysis with Python
+✅ Information Security
+✅ Machine Learning with Python
+🔴 Redis University 🔗
+Aprende Redis con cursos oficiales gratuitos.
+➡️ university.redis.com
+✅ Introduction to Redis Data Structures
+✅ Redis for Java Developers
+✅ Redis for JavaScript Developers
+✅ Redis for Python Developers
+✅ RediSearch
+✅ Redis Streams
+✅ Redis Security
+🍃 MongoDB University 🔗
+Aprende MongoDB con cursos y tutoriales oficiales gratuitos.
+➡️ university.mongodb.com
+✅ M001: MongoDB Basics
+✅ M100: MongoDB for SQL Pros
+✅ M103: Basic Cluster Administration
+✅ M121: The MongoDB Aggregation Framework
+✅ A300: Atlas Security
+✅ M201: MongoDB Performance
+✅ M220J: MongoDB for Java Developers
+✅ M220JS: MongoDB for JavaScript Developers
+✅ M220N: MongoDB for .NET Developers
+✅ M220P: MongoDB for Python Developers
+✅ M310: MongoDB Security
+✅ M312: Diagnostics and Debugging
+✅ M320: Data Modeling
+💻 Píldoras Informáticas 🔗
+Cursos gratuitos en español con canal de YouTube.
+➡️ pildorasinformaticas.es
+Ofimática
+Excel 2019 — Básico / Medio / Avanzado
+PowerPoint 2013
+Access Básico 2010
+Excel Básico 2010
+Word Avanzado
+Access Avanzado 2010
+VBA Access
+VBA Excel
+Programación Web
+PHP y MySQL — Módulo 1 y 2
+JavaScript desde cero
+Aplicaciones Móviles
+Android — Módulo 1, 2 y 3
+Python
+Curso de Python — Módulo 1 y 2
+Bases de Datos
+Curso de SQL
+Diseño Web
+HTML5
+CSS Avanzado desde cero
+Frameworks
+Django
+Spring
+Laravel
+Lenguajes
+Java SE
+Java EE
+C#
+🧑‍🏫 Jon Mircha 🔗
+Tu amigo y docente digital — tutoriales en español.
+➡️ jonmircha.com
+✅ Curso de JavaScript
+✅ Curso de Flexbox CSS
+✅ Progressive Web Apps
+✅ Curso de Node.js
+✅ Curso de POO con PHP
+✅ Software para la Web
+✅ Consejos de CSS
+✅ KISS PHP
+✅ Curso de Desarrollo Web
+✅ Diseño Responsivo
+✅ Curso de WordPress
+✅ Tutoriales de HTML5
+✅ Tutoriales de PHP
+✅ Curso de jQuery
+✅ Curso de ActionScript 3
+🎨 Yoney Gallardo 🔗
+Cursos y tutoriales de informática en español.
+➡️ Canal de YouTube / Sitio oficial
+✅ Programación
+✅ Ofimática
+✅ Modelado y Animación
+✅ Diseño Gráfico
+✅ Desarrollo Web
+✅ Audio y Video
+🇫🇮 Full Stack Open 🔗
+Aprende desarrollo web moderno con tecnologías JS.
+➡️ fullstackopen.com
+✅ Fundamentals of Web Apps
+✅ Introduction to React
+✅ Communicating with the Server
+✅ Programming a Server with Node.js y Express
+✅ Testing Express Servers and User Administration
+✅ Testing React Apps
+✅ State Management with Redux
+✅ React Router, Custom Hooks, Styling
+✅ GraphQL
+✅ TypeScript
+🛡️ The Odin Project 🔗
+Tu carrera como desarrollador web desde cero.
+➡️ theodinproject.com
+Full Stack Ruby on Rails
+Desarrollo Web 101
+Programación en Ruby
+Bases de Datos
+Ruby on Rails
+HTML y CSS
+JavaScript
+Guía para conseguir empleo
+Full Stack JavaScript
+Desarrollo Web 101
+JavaScript
+HTML y CSS
+Node.js
+Guía para conseguir empleo
+Solo Frontend
+Desarrollo Web 101
+JavaScript
+HTML y CSS
+Guía para conseguir empleo
+📚 ITOO 🔗
+Plataforma con instructores personalizados.
+➡️ itoo.com.co
+✅ Firebase para Android — Base de datos en tiempo real
+✅ Master en Python 3.x — De cero a experto con práctica
+✅ React JS — Biblioteca de JavaScript de Facebook
+✅ Diseño para Android con Material Design
+✅ Lenguaje Go desde cero
+✅ Lenguaje COBOL desde cero
+✅ Cómo instalar cualquier CMS en un Hosting
+✅ Programación Básica
+⚡ Scrimba 🔗
+Plataforma interactiva para aprender programación.
+➡️ scrimba.com
+✅ Matemáticas prácticas para desarrolladores
+✅ Crear buscador de películas con React
+✅ Aprende Svelte
+✅ Animaciones CSS
+✅ App con React y GraphQL
+✅ Tres en raya con React Hooks
+✅ Vuetify
+✅ Guía de Algoritmos
+✅ Alpine.js
+✅ Diseño de Interfaces (UI)
+✅ Tailwind CSS
+✅ Portafolio en DigitalOcean
+✅ Introducción a la programación
+✅ React Hooks en una hora
+✅ HTML y CSS — Curso Rápido
+✅ Vuex
+✅ React
+✅ ES6 y Dropbox
+✅ JavaScript moderno
+✅ Variables CSS
+✅ Tu primera app con Angular
+✅ Python
+✅ Expresiones Regulares
+✅ Redes Neuronales en JS
+✅ Vue.js
+✅ TypeScript
+✅ Bulma CSS
+✅ Introducción a CSS
+✅ ES6+
+✅ Introducción a JavaScript
+✅ Blog hermoso desde cero
+✅ D3.js
+✅ Introducción a HTML
+✅ Bootstrap 4
+✅ Flexbox
+✅ CSS Grid
+🐧 Makigas 🔗
+Tutoriales de programación gratuitos en español.
+➡️ makigas.net
+Desarrollo de Juegos
+libGDX
+Slick2D
+mini2dx
+Juego de naves con libGDX
+Java
+JDBC
+JUnit
+Automatización con Gradle
+JPA + Hibernate
+Mejora tus habilidades
+Estructuras de Datos
+Git
+Algoritmos de Ordenación
+Vagrant
+Ansible
+Emisiones en directo
+Rectball
+Emulador CHIP-8
+Lenguajes
+Racket
+Make
+Scala
+C
+Desarrollo Web
+HTML Básico
+Web Components
+TypeScript
+🎓 Capacítate para el Empleo 🔗
+Plataforma de la Fundación Carlos Slim — diplomados gratuitos.
+➡️ capacitateparaelempleo.org
+✅ Diplomado Técnico en Big Data
+✅ Diplomado Técnico en Sistemas Informáticos
+✅ Diplomado Técnico en Ingeniería Web
+✅ Gestión de Ambientes Virtuales de Aprendizaje
+✅ Desarrollo de Estrategias Digitales de Aprendizaje
+✅ Desarrollo de Sitios Web y Aplicaciones Móviles
+✅ Inteligencia de Negocios (Business Intelligence)
+✅ Diplomado Técnico en Computación en la Nube
+🐧 The Linux Foundation Training 🔗
+Cursos gratuitos de código abierto y tecnología.
+➡️ training.linuxfoundation.org
+✅ Introducción a Jenkins
+✅ Introducción a FinOps
+✅ Computación en el borde — Consideraciones comerciales
+✅ Desarrollador Aries de Hyperledger
+✅ Ética en IA y Big Data
+✅ DevOps y SRE
+✅ Identidad Soberana con Hyperledger (Indy, Aries, Ursa)
+✅ GraphQL — Lenguaje de Consulta para APIs
+✅ Desarrollo del Kernel Linux
+✅ Código Abierto y transición a 5G
+✅ 5G, IoT e IA — Perspectiva comercial
+✅ Hyperledger Sawtooth
+✅ Gestión de Proyectos de Código Abierto
+✅ Desarrollo de Software Libre
+✅ Orientación para ponentes
+✅ Licencias de Software
+✅ Blockchain — Usos e implicaciones
+✅ Redes 5G
+✅ Infraestructura en la Nube
+✅ Cloud Foundry y Arquitectura Nativa en la Nube
+✅ Tecnologías Blockchain con Hyperledger
+✅ Introducción a Linux
+✅ ONAP — Automatización de Redes
+✅ Kubernetes
+✅ OPNFV y Aceleración NFV
+🤝 Contribuir
+¿Conoces otro recurso gratuito que falte? ¡Todas las aportaciones son bienvenidas!
+Haz un Fork del repositorio
+Crea una rama con tu adición: git checkout -b nueva-plataforma
+Guarda tus cambios y haz un Commit
+Envía un Pull Request
+✅ Mantén el orden alfabético.
+✅ Verifica que el recurso sea gratuito.
+✅ Añade enlaces oficiales siempre que sea posible.
+📄 Licencia
+Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
